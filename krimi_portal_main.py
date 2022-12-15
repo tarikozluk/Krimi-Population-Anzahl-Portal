@@ -82,6 +82,3 @@ def my_form_post():
 
 
 app.run(port=80)
-"""
-Grafikler /graphs içerisinde yazdırılmalı.
-"""
